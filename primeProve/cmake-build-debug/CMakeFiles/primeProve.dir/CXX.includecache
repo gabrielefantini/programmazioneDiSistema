@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gabriele/Desktop/programmazione di sistema/primeProve/Message.h
+string
+-
+iostream
+-
+
+/home/gabriele/Desktop/programmazione di sistema/primeProve/main.cpp
+iostream
+-
+Message.h
+/home/gabriele/Desktop/programmazione di sistema/primeProve/Message.h
+

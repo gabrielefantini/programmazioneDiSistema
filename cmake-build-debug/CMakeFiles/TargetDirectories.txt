@@ -1,0 +1,3 @@
+/home/gabriele/Desktop/programmazione di sistema/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/gabriele/Desktop/programmazione di sistema/cmake-build-debug/CMakeFiles/programmazione_di_sistema.dir
+/home/gabriele/Desktop/programmazione di sistema/cmake-build-debug/CMakeFiles/edit_cache.dir

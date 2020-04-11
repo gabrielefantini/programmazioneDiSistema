@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/programmazione_di_sistema.dir/main.cpp.o  -o programmazione_di_sistema 

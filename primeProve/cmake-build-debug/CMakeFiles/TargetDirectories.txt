@@ -1,0 +1,3 @@
+/home/gabriele/Desktop/programmazione di sistema/primeProve/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/gabriele/Desktop/programmazione di sistema/primeProve/cmake-build-debug/CMakeFiles/primeProve.dir
+/home/gabriele/Desktop/programmazione di sistema/primeProve/cmake-build-debug/CMakeFiles/edit_cache.dir

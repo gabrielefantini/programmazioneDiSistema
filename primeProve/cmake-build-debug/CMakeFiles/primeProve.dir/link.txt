@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/primeProve.dir/main.cpp.o CMakeFiles/primeProve.dir/Message.cpp.o  -o primeProve 
